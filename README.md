@@ -30,7 +30,7 @@
 
 ## Reference
 
-[1] obspy.signal.tf_misfit (https://github.com/obspy/obspy/tree/master).Accessed: 2023-12-20.
+[1] obspy.signal.tf_misfit (https://github.com/obspy/obspy/tree/master). Accessed: 2023-12-20.
 
-[2] fCWT (https://github.com/fastlib/fCWT/tree/main).Accessed: 2023-12-20.
+[2] fCWT (https://github.com/fastlib/fCWT/tree/main). Accessed: 2023-12-20.
 
