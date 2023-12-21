@@ -6,8 +6,9 @@
 
 **Analyze time domain, frequency domain and time-frequency domain data and Plot figures.**
 
+***
 ## Features:
-==========
+
 - The frequency domain data is calculated by fft.
 - The time-frequency domain data is calculated by fCWT (The fast Continuous Wavelet Transform)
 - This code can analyze single signal or multiple signals.
@@ -17,7 +18,6 @@
 |<img src="https://github.com/cuitianyu20/tf_analyze/blob/main/img/egg.png" alt="fcwtaudio" width="400"/>|
 |**analysis for multiple signals**    |
 |<img src="https://github.com/cuitianyu20/tf_analyze/blob/main/img/egg2.png" alt="fcwtaudio" width="400"/>|
-
 
 ***
 ## Dependencies
@@ -29,7 +29,8 @@
 ***
 
 ## Reference
-==========
+
 [1] obspy.signal.tf_misfit (https://github.com/obspy/obspy/tree/master).Accessed: 2023-12-20.
+
 [2] fCWT (https://github.com/fastlib/fCWT/tree/main).Accessed: 2023-12-20.
 
