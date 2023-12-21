@@ -11,6 +11,7 @@
 - The frequency domain data is calculated by fft.
 - The time-frequency domain data is calculated by fCWT (The fast Continuous Wavelet Transform)
 - This code can analyze single signal or multiple signals.
+
 |**analysis for a single signal**    |
 |:--------------------------------------------------------------:|
 |<img src="https://github.com/cuitianyu20/tf_analyze/blob/main/img/egg.png" alt="fcwtaudio" width="400"/>|
